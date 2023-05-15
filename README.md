@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aagam</h1>
-<h3 align="center">I am a passionate Django developer from India</h3>
+<h3 align="center">I am a passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aagammehta999&label=Profile%20views&color=0e75b6&style=flat" alt="aagammehta999" /> </p>
 
 - I am a 4th year Computer Science student at **Bharati Vidhyapeeth College of Engineering, Pune**. 
 
-- 🌱 I’m currently learning **AWS, SQL, Flutter,MERN, Algorithms**
+- 🌱 I’m currently learning **AWS, SQL, Flutter, MERN, Algorithms**
 
 - 📫 How to reach me **aagammehta49@gmail.com**
 
