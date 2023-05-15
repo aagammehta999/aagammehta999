@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aagammehta999&label=Profile%20views&color=0e75b6&style=flat" alt="aagammehta999" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
 - I am a 4th year Computer Science student at **Bharati Vidhyapeeth College of Engineering, Pune**. 
 
-- 🌱 I’m currently learning **AWS, SQL, Django, Algorithms**
+- 🌱 I’m currently learning **AWS, SQL, Flutter,MERN, Algorithms**
 
 - 📫 How to reach me **aagammehta49@gmail.com**
 
